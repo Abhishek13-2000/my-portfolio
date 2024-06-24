@@ -34,9 +34,13 @@ const Experince = () => {
                     <img className='w-20 mx-auto' src="/tailwind.png" alt="" />
                     <p className='mt-4'>Tailwind</p>
                 </div>
-                <div className='shadow-md hover:scale-105 duration-500 py-2 rounded-lg shadow-red-500'>
-                    <img className='w-20 mx-auto' src="/figma.png" alt="" />
-                    <p className='mt-4'>Figma</p>
+                <div className='shadow-md hover:scale-105 duration-500 py-2 rounded-lg shadow-blue-300'>
+                    <img className='w-20 mx-auto' src="/python-logo-only.png" alt="" />
+                    <p className='mt-4'>Python</p>
+                </div>
+                <div className='shadow-md hover:scale-105 duration-500 py-2 rounded-lg shadow-blue-300'>
+                    <img className='w-20 mx-auto' src="/logo-mysql-170x115.png" alt="" />
+                    <p className='mt-4'>My SQL</p>
                 </div>
                 <div className='shadow-md hover:scale-105 duration-500 py-2 rounded-lg shadow-gray-500'>
                     <img className='w-20 mx-auto' src="/git.png" alt="" />
